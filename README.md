@@ -1,2 +1,3 @@
 # meetingz
-Web app for booking a meeting rooms
+
+backend module (JAVA)
